@@ -1,0 +1,7 @@
+H:\study c####\ASMMM\ASMMM\obj\Debug\ASMMM.csproj.AssemblyReference.cache
+H:\study c####\ASMMM\ASMMM\obj\Debug\ASMMM.csproj.CoreCompileInputs.cache
+H:\study c####\ASMMM\ASMMM\bin\Debug\ASMMM.exe.config
+H:\study c####\ASMMM\ASMMM\bin\Debug\ASMMM.exe
+H:\study c####\ASMMM\ASMMM\bin\Debug\ASMMM.pdb
+H:\study c####\ASMMM\ASMMM\obj\Debug\ASMMM.exe
+H:\study c####\ASMMM\ASMMM\obj\Debug\ASMMM.pdb
